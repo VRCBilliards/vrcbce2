@@ -1,6 +1,6 @@
 {
   "name": "com.vrcbilliards.vrcbce2",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "displayName" : "VRCBilliards Community Edition 2",
   "unity" : "2019.4",
   "description" : "Prototype of VRCBCE2",
@@ -8,5 +8,8 @@
     "name" : "VRCBCE Maintainers",
     "email" : "no@email.provided",
     "url" : "https://github.com/VRCBilliards/vrcbce2"
+  },
+  "vpmDependencies": {
+    "com.vrchat.udonsharp": "1.x.x"
   }
 }
