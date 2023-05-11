@@ -1,13 +1,13 @@
 {
   "name": "com.vrcbilliards.vrcbce2",
-  "displayName": "com.vrcbilliards.vrcbce2",
+  "displayName": "VRCBilliards Community Edition 2",
   "version": "0.0.2",
-  "description": "Describe this Package",
-  "dependencies": {},
+  "description": "Among Us",
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.udonsharp": "1.1.8"
   },
   "legacyFolders": {},
-  "legacyFiles": {}
+  "legacyFiles": {},
+  "unity": "2019.4"
 }
