@@ -57,4 +57,4 @@ jobs:
           files: |
             ${{ env.zipFile }}
             ${{ env.unityPackage }}
-            ./package.json
+            ./Packages/com.vrcbilliards.vrcbce2/package.json
