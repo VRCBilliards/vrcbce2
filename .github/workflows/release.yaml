@@ -4,6 +4,9 @@ name: Build Release
 
 on:
   workflow_dispatch:
+  push:
+    branches: main
+    paths: Packages/com.vrcbilliards.vrcbce2/package.json
 
 env:
   releasePrefix: "VRCBCE2"
