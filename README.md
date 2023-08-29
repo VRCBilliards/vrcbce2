@@ -5,8 +5,6 @@ This is the **full rewrite** of the [VRCBCE] project, the leading billiards tabl
 
 This project is a community effort to provide the best, easiest to use and easiest to maintain game prefab in VRC.
 
-This project is developed [live on Twitch]! 
-
 ## Goals
 
 This project is currently in the prototyping phase.
@@ -19,4 +17,3 @@ The project's long-term goals are to add new game types and support a more accur
 
 [VRCBCE]: https://github.com/VRCBilliards/vrcbce
 [VRChat]: https://hello.vrchat.com/
-[live on Twitch]: https://www.twitch.tv/fairlysadpanda

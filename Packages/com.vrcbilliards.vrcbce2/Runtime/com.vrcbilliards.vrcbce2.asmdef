@@ -1,15 +1,25 @@
 {
-  "name": "com.vrcbilliards.vrcbce2",
-  "references": [
-    "VRC.SDK3",
-    "VRC.SDKBase"
-  ],
-  "includePlatforms": [],
-  "excludePlatforms": [],
-  "allowUnsafeCode": false,
-  "autoReferenced": true,
-  "overrideReferences": false,
-  "precompiledReferences": [],
-  "defineConstraints": [],
-  "optionalUnityReferences": []
+    "name": "com.vrcbilliards.vrcbce2",
+    "references": [
+        "VRC.SDK3",
+        "VRC.SDK3.Editor",
+        "VRC.SDKBase",
+        "VRC.SDKBase.Editor",
+        "VRC.Udon",
+        "UdonSharp.Editor",
+        "UdonSharp.Lib",
+        "UdonSharp.Runtime",
+        "VRC.Udon.Editor",
+        "VRC.Udon.Serialization.OdinSerializer",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
