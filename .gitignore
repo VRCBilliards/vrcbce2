@@ -76,6 +76,7 @@ crashlytics-build.properties
 
 # Ignore everything in Assets: this project is built in the Package folder
 Assets/*
-Packages/*
-!Packages/com.vrcbilliards.vrcbce2/*
 ProjectSettings/*
+
+Packages/*
+!Packages/com.vrcbilliards.vrcbce2
