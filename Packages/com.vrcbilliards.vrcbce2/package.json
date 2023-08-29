@@ -1,7 +1,7 @@
 {
   "name": "com.vrcbilliards.vrcbce2",
   "displayName": "VRCBilliards Community Edition 2",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A coded-in-anger refactor of VRCBCE. This is not compatible with VRCBCE.",
   "url": "https://github.com/VRCBilliards/vrcbce2.git",
   "author": {
