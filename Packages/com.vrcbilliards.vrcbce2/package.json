@@ -3,12 +3,17 @@
   "displayName": "VRCBilliards Community Edition 2",
   "version": "0.1.1",
   "description": "A coded-in-anger refactor of VRCBCE. This is not compatible with VRCBCE.",
+  "url": "https://github.com/VRCBilliards/vrcbce2.git",
+  "author": {
+    "name": "FairlySadPanda",
+    "email": "",
+    "url": ""
+},
   "gitDependencies": {},
   "vpmDependencies": {
-    "com.vrchat.udonsharp": ">=1.1.8"
-  },
+    "com.vrchat.udonsharp": "1.1.X"
+},
   "legacyFolders": {},
   "legacyFiles": {},
-  "unity": "2019.4",
-  "type": "module"
+  "unity": "2019.4"
 }
