@@ -1,7 +1,8 @@
 # VRCBilliards Community Edition 2
 
+This is (or, rather, will be) the **full rewrite** of the [VRCBCE] project, the leading billiards table in the VR social app [VRChat].
 
-This is the **full rewrite** of the [VRCBCE] project, the leading billiards table in the VR social app [VRChat].
+Currently this project contains the bleeding-edge 1.6.0 release version of the basic pool table, stored here to avoid interfering with the main repo.
 
 This project is a community effort to provide the best, easiest to use and easiest to maintain game prefab in VRC.
 
