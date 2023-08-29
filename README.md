@@ -17,3 +17,8 @@ The project's long-term goals are to add new game types and support a more accur
 
 [VRCBCE]: https://github.com/VRCBilliards/vrcbce
 [VRChat]: https://hello.vrchat.com/
+
+## Current Status
+
+The improved physics system, allowing for the cue ball to jump and improved accuracy and reliability across the board (including in high-pop instances) has been implemented.
+This is likely to be the final feature shipped in 1.6.0, meaning this can be considered the bleeding-edge 1.6.0 version for the time being.
