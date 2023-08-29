@@ -1,11 +1,11 @@
 {
   "name": "com.vrcbilliards.vrcbce2",
   "displayName": "VRCBilliards Community Edition 2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A coded-in-anger refactor of VRCBCE. This is not compatible with VRCBCE.",
   "gitDependencies": {},
   "vpmDependencies": {
-    "com.vrchat.udonsharp": "1.1.8"
+    "com.vrchat.udonsharp": ">=1.1.8"
   },
   "legacyFolders": {},
   "legacyFiles": {},
