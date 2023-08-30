@@ -20,6 +20,10 @@ The project's long-term goals are to add new game types.
 
 ## Links
 
+[VRCBCE]
+
+[VRChat]
+
 [VRCBCE]: https://github.com/VRCBilliards/vrcbce
 [VRChat]: https://hello.vrchat.com/
 
